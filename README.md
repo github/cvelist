@@ -1,4 +1,4 @@
-# CVE Automation Working Group Git Pilot
+CVE Automation Working Group Git Pilot
 
 The [CVE Automation Working
 Group](https://github.com/CVEProject/automation-working-group) is
